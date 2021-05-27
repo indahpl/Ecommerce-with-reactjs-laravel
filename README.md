@@ -1,1 +1,1 @@
-# Ecommerce-with-reactjs-laravel
+# Ecommerce-with-reactjs-and-laravel
